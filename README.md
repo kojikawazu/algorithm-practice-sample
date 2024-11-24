@@ -12,7 +12,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33D?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-# TODO
+# Details
 
 - Array
   - [配列操作](./src/main/java/com/example/app/utils/array/ArrayOperations.java)
@@ -63,3 +63,12 @@
   - [マルチスレッド](./src/main/java/com/example/app/utils/algorithm/MultiThreadExample.java)
   - [パラレルストリーム](./src/main/java/com/example/app/utils/algorithm/ParallelStreamExample.java)
   - [スレッドプール](./src/main/java/com/example/app/utils/algorithm/ThreadPoolExample.java)
+
+# Flow
+
+- [アルゴリズム選択フロー](./src/main/resources/static/algorithm/algorithm_flow.md)
+- [デザインパターン選択フロー](./src/main/resources/static/design_pattern/design_pattern_flow.md)
+
+# More
+
+and more...
